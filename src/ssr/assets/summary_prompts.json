@@ -1,0 +1,6 @@
+{
+  "SUMMARY_SYSTEM_PROMPT": "You are a helpful assistant. Your task is to summarize the main content of the given web page in no more than five sentences. Your summary should cover the overall key points of the page, not just parts related to the user's question.\n\nIf any part of the content is helpful for answering the user's question, be sure to include it clearly in the summary. Do not ignore relevant information, but also make sure the general structure and main ideas of the page are preserved. Your summary should be concise, factual, and informative.",
+  "SUMMARY_USER_PROMPT": "Webpage Content (first {content_limit} characters) is: {content}\nQuestion: {query}",
+  "source": "SenseNova-MARS/inference/eval.py",
+  "source_sha256": "377840a36bdca757ecdf369aa8e06ab1f1eab724e6cfb4c13bccb6f0c2019bbd"
+}

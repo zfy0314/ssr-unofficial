@@ -1,0 +1,49 @@
+{
+  "name": "ssr-reasoning-library",
+  "version": "v0",
+  "note": "Six reusable reasoning candidates. Each candidate is wrapped in <thinking>...</thinking> before scoring; expected_actions are metadata, not forced actions.",
+  "entries": {
+    "r_GENERAL_KNOW": {
+      "text": "I recognize the main subject of this image and I already know the answer from general knowledge, so I can answer the question directly.",
+      "expected_actions": [
+        "answer"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    },
+    "r_ANSWER_FROM_IMAGE": {
+      "text": "The information needed to answer is clearly visible in the image itself, so I can determine the answer by reading it directly from what I see.",
+      "expected_actions": [
+        "answer"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    },
+    "r_ZOOM_DETAIL": {
+      "text": "The part of the image that matters for this question is small or hard to make out, so I should examine that region more closely before I decide.",
+      "expected_actions": [
+        "image_zoom_in_tool"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    },
+    "r_IDENTIFY_BY_IMAGE": {
+      "text": "I cannot confidently tell what the specific entity in this image is from its appearance alone, so I should identify it by searching with the image itself before answering.",
+      "expected_actions": [
+        "image_search_tool"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    },
+    "r_LOOKUP_FACT": {
+      "text": "I can tell what the entity in the image is, but I do not know the particular fact the question is asking about, so I should look that information up.",
+      "expected_actions": [
+        "text_search_tool"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    },
+    "r_ANSWER_FROM_EVIDENCE": {
+      "text": "The details I have gathered so far already contain what the question is asking for, so I can now give the final answer.",
+      "expected_actions": [
+        "answer"
+      ],
+      "created_at": "2026-06-17T00:00:00Z"
+    }
+  }
+}

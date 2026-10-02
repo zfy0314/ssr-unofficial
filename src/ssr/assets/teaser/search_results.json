@@ -1,0 +1,42 @@
+{
+  "image_sha256": "e7ef9e7932b7caf6818829c0b60c321ba56e5f0a54ebe55b8a913f84e9d60933",
+  "retrieved_at": "2026-09-21T13:17:58.039272+00:00",
+  "provenance": "Previously recorded SerpAPI search; first five results in returned order, without reranking.",
+  "results": [
+    {
+      "title": "Old College, University of Edinburgh - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Old_College,_University_of_Edinburgh",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtF4Hlk08r6RSFQUVQ-aH7H2uxCP5VkFSXMQN4btf3-88OUTAe",
+      "image_path": "01_thumbnail.jpg"
+    },
+    {
+      "title": "University of Edinburgh Tours - Book Now | Expedia",
+      "url": "https://www.expedia.com/University-Of-Edinburgh-Southside.d501015.Vacation-Attraction",
+      "source": "Expedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUhSa1rVg1a4xMijeGJbfb9HJleo38YpNHG-XfeSeggZPy3c5K",
+      "image_path": "02_thumbnail.jpg"
+    },
+    {
+      "title": "Ann Marie Gilmore's Art Enters Edinburgh University's ...",
+      "url": "http://www.amgilmorefineart.com/news/april-27th-2017",
+      "source": "Ann Marie Gilmore Fine Art",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgUdayJzDql0G7erjHiNDxqFxKhC3mbJw9MVRMBibXzK7PdgbC",
+      "image_path": "03_thumbnail.jpg"
+    },
+    {
+      "title": "I'm honoured to be invited to the Edinburgh University ...",
+      "url": "https://www.linkedin.com/posts/artur-zanellato-2240b467_im-honoured-to-be-invited-to-the-edinburgh-activity-7423516344983146496-SxVZ",
+      "source": "LinkedIn",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_ojymoFPRMxbe8FOyvPzNQ5fKkMq81do49zlwo0EeFSEUWFSd",
+      "image_path": "04_thumbnail.jpg"
+    },
+    {
+      "title": "Portal:Scotland/Selected articles/54 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Scotland/Selected_articles/54",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB9c97RzSwxqBS3iHPJhmQJ_ygaxKnWHhU7D-QHC3KEXW68cXi",
+      "image_path": "05_thumbnail.jpg"
+    }
+  ]
+}

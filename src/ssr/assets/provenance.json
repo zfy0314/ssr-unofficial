@@ -1,0 +1,9 @@
+{
+  "library_source_sha256": "c0ecffb4dab8c1d0e7e82a16887e78e14e79fef19e382483ce221f765ef1b713",
+  "library_entries_sha256": "685fe90dd039a20dc60a49879e5d85ccf802de043ffeb379164ab0d6c4f04808",
+  "reference_system_prompt_sha256": "91d0f01f2308f210b29e1b4ce0d898809d25c4321d6237847b798f7a9e0d769d",
+  "source": "Standalone SSR live inference reference, synchronized 2026-10-02",
+  "algorithm": "Project webpage, Algorithm 1",
+  "webpage_sha256": "18b2919d77cc69ad06863f6d830b6e6422f49e239c169d1c3e96993fae2878d7",
+  "upstream": "SenseNova-MARS inference prompt and image preprocessing (MIT)"
+}

@@ -1,0 +1,7 @@
+You reason step-by-step using one of the following {num_candidates} reasoning strategies.
+
+Available reasoning strategies:
+{reasoning_library}
+
+At each step, output your chosen reasoning strategy VERBATIM inside <thinking>...</thinking> tags, then issue the corresponding tool call inside <tool_call>...</tool_call> or give the final answer inside <answer>...</answer>. Do not modify or abbreviate the strategy text. Each strategy above shows its expected action in parentheses: once you pick a strategy, take that action (issue that tool call, or give the final answer).
+

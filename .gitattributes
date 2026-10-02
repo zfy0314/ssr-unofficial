@@ -1,0 +1,3 @@
+# Preserve the exact synchronized prompt bytes, including Markdown spacing.
+src/ssr/assets/system_prompt.txt whitespace=-blank-at-eol
+src/ssr/assets/reasoning_instructions.txt whitespace=-blank-at-eof
