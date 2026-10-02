@@ -16,7 +16,7 @@ its text into the model context before generating a tool call or answer.
 
 - [x] Inference code, reasoning library, prompts, and tool harness.
 - [ ] Training code — tentative: end of October 2026.
-- [ ] Sample 4B checkpoint — tentative: end of November 2026.
+- [ ] 4B model weights — tentative: end of November 2026.
 
 ## Installation
 
